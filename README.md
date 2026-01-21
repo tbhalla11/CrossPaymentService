@@ -519,23 +519,6 @@ This project is licensed under the MIT License.
 
 ---
 
-## 📧 Support
-
-For issues and questions:
-- Open an issue on GitHub
-- Email: support@crosspayment.example.com
-
----
-
-## 🎯 Roadmap
-
-- [ ] Add authentication & authorization
-- [ ] Implement async payment processing
-- [ ] Add webhook notifications
-- [ ] Payment refund support
-- [ ] Multi-currency wallet support
-- [ ] Rate limiting per user
-- [ ] Metrics & monitoring dashboard
 
 ---
 
